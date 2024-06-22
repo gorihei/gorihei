@@ -1,16 +1,36 @@
-## Hi there 👋
+# About Me
+I'm gorihei. I'm a web frontend and backend developer from Japan.
 
-<!--
-**gorihei/gorihei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gorihei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorihei&locale=en&layout=compact&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gorihei" alt="gorihei" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gorihei&label=Profile%20views&color=0e75b6&style=flat" alt="gorihei" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,azure,vue,vuetify,vite,nuxtjs,docker" />
+
+# Social Media
+  <p>
+    Zenn account <a href="https://zenn.dev/gorihei">https://zenn.dev/gorihei</a>
+  </p>
+  <a href="https://zenn.dev/gorihei">
+    <img src="https://zenn.badge.nikaera.com/s/gorihei/likes?style=social" alt="gorihei likes" />
+  </a>
+  <a href="https://zenn.dev/gorihei/articles">
+    <img src="https://zenn.badge.nikaera.com/s/gorihei/articles?style=social" alt="gorihei articles" />
+  </a>
+  <a href="https://zenn.dev/gorihei/followers">
+    <img src="https://zenn.badge.nikaera.com/s/gorihei/followers?style=social" alt="gorihei followers" />
+  </a>
+
