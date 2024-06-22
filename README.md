@@ -1,10 +1,9 @@
 # About Me
 I'm gorihei. I'm a web frontend and backend developer from Japan.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorihei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorihei&locale=en&layout=compact&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="170" alt="languages graph"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorihei&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorihei&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorihei&theme=chartreuse_dark)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gorihei&label=Profile%20views&color=0e75b6&style=flat" alt="gorihei" />
